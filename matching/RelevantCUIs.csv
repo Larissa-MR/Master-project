@@ -1,0 +1,751 @@
+Code,Term,Category
+C1284429,Entire distal portion of ileum,ilealents
+C0227321,Structure of ileal lumen,ilealents
+C4512408,Entire ileal submucosa,ilealents
+C1280682,Entire middle portion of ileum,ilealents
+C1280689,Entire anti-mesenteric border of ileum,ilealents
+C0020885,Ileal structure,ilealents
+C1280681,Entire proximal portion of ileum,ilealents
+C0227319,Ileal lamina propria,ilealents
+C1283689,Region of ileum,ilealents
+C1280693,Entire ileal lumen,ilealents
+C0740114,Ileostomy - stoma,ilealents
+C4512292,Entire ileal epithelium,ilealents
+C0227324,Structure of anti-mesenteric border of ileum,ilealents
+C1284427,Entire ileal mucous membrane,ilealents
+C4517046,Entire ileal vein,ilealents
+C0227325,Structure of proximal portion of ileum,ilealents
+C0227332,Structure of ileocecal ostium,ilealents
+C0227323,Structure of mesenteric border of ileum,ilealents
+C0227317,Ileal mucous membrane structure,ilealents
+C1280684,Entire mesenteric border of ileum,ilealents
+C0227318,Ileal epithelium,ilealents
+C4512203,Entire ileal lamina propria,ilealents
+C4515498,Entire border of ileum,ilealents
+C0086512,Continent ileostomy - stoma,ilealents
+C1301431,Ileal vein structure,ilealents
+C0227333,Structure of frenulum of ileocecal valve,ilealents
+C0588984,Loop ileostomy stoma,ilealents
+C1283690,Border of ileum,ilealents
+C0020880,Ileocecal valve structure,ilealents
+C0588983,End ileostomy stoma,ilealents
+C1299155,Ileal part,ilealents
+C1278923,Entire ileum,ilealents
+C0025037,Meckels diverticulum,ilealents
+C0227320,Ileal submucosa,ilealents
+C0227328,Structure of peri-ileal tissue,ilealents
+C1280707,Entire peri-ileal tissue,ilealents
+C0227327,Structure of distal portion of ileum,ilealents
+C1284428,Entire ileocecal valve,ilealents
+C1280700,Entire frenulum of ileocecal valve,ilealents
+C1280702,Entire ileocecal ostium,ilealents
+C0227326,Structure of middle portion of ileum,ilealents
+C0015252,removal technique,resection
+C0728940,Excision,resection
+C1261287,Stricture,uppergistrictents
+C0341199,Acquired pyloric stricture,uppergistrictents
+C4551650,Stricture of esophagus,uppergistrictents
+C0267353, Stricture of duodenum,uppergistrictents
+C1401339,Stricture of jejunum,uppergistrictents
+C0221198, Lesion,lesionents
+C0041582, Ulcer,lesionents
+C0227333,Structure of frenulum of ileocecal valve,cecuments
+C0475433,Ileocecal junction,cecuments
+C0734220,Structure of mucous membrane of cecum,cecuments
+C0020880,Ileocecal valve structure,cecuments
+C5191211,Structure of lumen of cecum,cecuments
+C4517942,Entire ileocecal junction,cecuments
+C1278925,Entire cecum,cecuments
+C5191223,Entire lumen of cecum,cecuments
+C1280715,Entire ostium appendicis vermiformis,cecuments
+C1284428,Entire ileocecal valve,cecuments
+C5190653,Entire mucous membrane of cecum,cecuments
+C0227332,Structure of ileocecal ostium,cecuments
+C1280700,Entire frenulum of ileocecal valve,cecuments
+C0227342,Structure of ostium appendicis vermiformis,cecuments
+C0007531,Cecum structure,cecuments
+C1280702,Entire ileocecal ostium,cecuments
+C3827026, Cobblestone Area-Forming Cells WRONG CONCEPT! but works for our purposes,cblstnents
+C0021368, Inflammation, inflaments
+C1444073, Inflammatory morphology,inflaments
+C0585098,Resection of terminal ileum,l1procents
+C0585422,Ileectomy and ileostomy,l1procents
+C0585369,Excision of ileorectal fistula,l1procents
+C0565319,Excision of redundant mucosa from ileostomy,l1procents
+C1280902,Ileocolic resection,l1procents
+C2733466,Excision of part of colon and excision of terminal ileum with ileocolic anastomosis,l1procents
+C0192635,Excision of Meckels diverticulum,l1procents
+C0399939,Ileectomy and anastomosis of ileum to colon,l1procents
+C0399942,Ileectomy and anastomosis of stomach to ileum,l1procents
+C0399935,Ileectomy,l1procents
+C0192636,Partial ileectomy,l1procents
+C0399940,Ileectomy and anastomosis of ileum to ileum,l1procents
+C0399941,Ileectomy and anastomosis of duodenum to ileum,l1procents
+C0192637,Total ileectomy,l1procents
+C1960851,Excision of ileoanal pouch,l1procents
+C0192862,Resection of cecum and terminal ileum,Ileocecal resection
+C4517058,Entire colonic loop,colonents
+C1280332,Entire rectosigmoid junction,colonents
+C0227362,Colonic solitary lymphoid nodule,colonents
+C0227360,Circular layer of colonic muscularis propria,colonents
+C1280725,Entire pericolic tissue,colonents
+C1284435,Entire taenia coli,colonents
+C0227356,Structure of plicae semilunares coli,colonents
+C5192606,Structure of lymphoid tissue of colon,colonents
+C1280721,Entire taenia mesocolica,colonents
+C1280724,Entire taenia libera,colonents
+C0227385,Structure of right colic flexure,colonents
+C1761590,Entire sigmoid mesocolon,colonents
+C1280624,Entire mesentery of descending colon,colonents
+C1305188,Right colon structure,colonents
+C5190653,Entire mucous membrane of cecum,colonents
+C1281569,Entire colon,colonents
+C1284431,Entire colonic lumen,colonents
+C4512511,Entire circular layer of colonic muscularis propria,colonents
+C1284436,Entire right colon,colonents
+C4512641,Entire colonic lamina propria,colonents
+C4512143,Entire colonic crypt of Lieberkühn,colonents
+C0227368,Structure of taenia libera,colonents
+C5190647,Entire mucous membrane of left colic flexure,colonents
+C5397453,Entire blood vessel within colon,colonents
+C0227371,Structure of pericolic tissue,colonents
+C1284438,Entire transverse colon,colonents
+C0458949,Entire appendix epiploica,colonents
+C0227350,Lamina muscularis of colonic mucous membrane,colonents
+C1282333,Colon wall structure,colonents
+C5190492,Entire mucous membrane of ascending colon,colonents
+C1280720,Entire plicae semilunares coli,colonents
+C0458948,Entire colonic haustra,colonents
+C0734234,Structure of mucous membrane of transverse colon,colonents
+C0227386,Transverse colon structure,colonents
+C0227375,Ascending colon structure,colonents
+C0227358,Colonic muscularis propria structure,colonents
+C0521377,Rectosigmoid structure,colonents
+C0227364,Structure of appendix epiploica,colonents
+C5397452,Structure of blood vessel within colon,colonents
+C0227370,Colonic subserosa,colonents
+C1284432,Entire colonic mucous membrane,colonents
+C0227387,Structure of left colic flexure,colonents
+C0227353,Colonic epithelium,colonents
+C0447522,Region of colon,colonents
+C5191224,Entire lumen of sigmoid colon,colonents
+C4512228,Entire diaphragmatic flexure of colon,colonents
+C0009368,Colonic,colonents
+C5190609,Structure of mucous membrane of right colic flexure,colonents
+C0227391,Sigmoid colon structure,colonents
+C5191214,Structure of lumen of sigmoid colon,colonents
+C0227384,Ampulla coli,colonents
+C1284439,Entire left colon,colonents
+C5190520,Entire mucous membrane of transverse colon,colonents
+C4512456,Entire colonic solitary lymphoid nodule,colonents
+C1284440,Entire descending colon,colonents
+C0227366,Structure of taenia mesocolica,colonents
+C5397457,Structure of blood vessel within cecum,colonents
+C0227348,Structure of lumen of colon,colonents
+C0734220,Structure of mucous membrane of cecum,colonents
+C1446298,Colonic loop,colonents
+C0734227,Structure of mucous membrane of ascending colon,colonents
+C0227365,Taenia coli structure,colonents
+C0227354,Colonic lamina propria,colonents
+C0227349,Colonic mucous membrane structure,colonents
+C0227357,Colonic submucosa,colonents
+C0227351,Colonic crypt of Lieberkühn,colonents
+C0025498,Structure of mesentery of sigmoid colon,colonents
+C4512380,Entire colonic submucosa,colonents
+C0227361,Structure of colonic haustra,colonents
+C1284441,Entire sigmoid colon,colonents
+C1284434,Entire longitudinal layer of colonic muscularis propria,colonents
+C0227389,Descending colon structure,colonents
+C4517013,Entire colon wall,colonents
+C0230255,Structure of mesentery of descending colon,colonents
+C5190615,Entire mucous membrane of right colic flexure,colonents
+C1299140,Colon part,colonents
+C4511676,Entire lamina muscularis of colonic mucous membrane,colonents
+C5190521,Entire mucous membrane of sigmoid colon,colonents
+C1284443,Entire rectosigmoid,colonents
+C1284437,Entire ascending colon,colonents
+C0227383,Structure of colic flexure,colonents
+C5397456,Entire blood vessel within cecum,colonents
+C1284433,Entire colonic muscularis propria,colonents
+C0227388,Left colon structure,colonents
+C0230254,Structure of transverse mesocolon,colonents
+C1280340,Entire transverse mesocolon,colonents
+C0447523,Entire colic flexure,colonents
+C0227359,Structure of longitudinal layer of colonic muscularis propria,colonents
+C4512118,Entire ampulla coli,colonents
+C0227367,Structure of taenia omentalis,colonents
+C0734241,Structure of mucous membrane of descending colon,colonents
+C5192607,Entire lymphoid tissue of colon,colonents
+C5190645,Structure of mucous membrane of left colic flexure,colonents
+C1709868,Structure of rectosigmoid junction,colonents
+C1280330,Entire right colic flexure,colonents
+C4512272,Entire colonic epithelium,colonents
+C4512327,Entire colonic subserosa,colonents
+C4512541,Entire colonic serosa,colonents
+C0227369,Colonic serosa,colonents
+C1280723,Entire taenia omentalis,colonents
+C0278442,Diaphragmatic flexure of colon,colonents
+C0734248,Structure of mucous membrane of sigmoid colon,colonents
+C1280331,Entire left colic flexure,colonents
+C1299203,Sigmoid colon part,colonents
+C5190519,Entire mucous membrane of descending colon,colonents
+C0192861,Right colectomy,colonents
+C2960539,Hand assisted laparoscopic extended right colectomy,l2procents
+C0582485,Extended right hemicolectomy and ileostomy,l2procents
+C1282558,Right hemicolectomy and anastomosis of ileum to colon,l2procents
+C0400049,Extended right hemicolectomy and end-to-end anastomosis,l2procents
+C2959731,Hand assisted laparoscopic right colectomy,l2procents
+C3165145,Right hemicolectomy and ileostomy,l2procents
+C0400048,Extended right hemicolectomy and anastomosis of ileum to colon,l2procents
+C4545400,Right colectomy with stoma,l2procents
+C0585464,Laparoscopic-assisted right colectomy,l2procents
+C0400043,Extended right hemicolectomy,l2procents
+C0400055,Right hemicolectomy and side-to-side anastomosis of ileum to transverse colon,l2procents
+C0400056,Right hemicolectomy and end to end anastomosis of ileum to colon,l2procents
+C0585514,Transverse colectomy and colostomy,l2procents
+C0585463,Laparoscopic transverse colectomy,l2procents
+C0400062,Transverse colectomy and end-to-end anastomosis,l2procents
+C0585513,Transverse colectomy and ileostomy,l2procents
+C0400061,Transverse colectomy and anastomosis of ileum to colon,l2procents
+C0192863,Transverse colectomy,l2procents
+C1282560,Transverse colectomy with stoma,l2procents
+C0192864,Resection of splenic flexure of colon,l2procents
+C1282559,Transverse colectomy with anastomosis,l2procents
+C1278737,Left hemicolectomy with stoma,l2procents
+C0192864,Resection of splenic flexure of colon,l2procents
+C0192865,Left colectomy,l2procents
+C0400050,Extended left hemicolectomy,l2procents
+C2960540,Hand assisted laparoscopic left colectomy,l2procents
+C2960318,Hand assisted laparoscopic extended left colectomy,l2procents
+C5399820,Resection of left hemicolon,l2procents
+C0400067,Left hemicolectomy and end to end anastomosis of colon to rectum,l2procents
+C0400066,Left hemicolectomy and end-to-end anastomosis of colon to colon,l2procents
+C0585520,Left hemicolectomy and colostomy,l2procents
+C0843042,Left hemicolectomy with anastomosis,l2procents
+C0521258,Laparoscopic-assisted left colectomy,l2procents
+C1282561,Sigmoid colectomy with anastomosis,l2procents
+C0400072,Sigmoid colectomy and end-to-end anastomosis of ileum to rectum,l2procents
+C0585521,Sigmoid colectomy and colostomy,l2procents
+C1282562,Sigmoid colectomy with stoma,l2procents
+C0585462,Laparoscopic-assisted sigmoid colectomy,l2procents
+C0193063,Rectosigmoidectomy,l2procents
+C0193183,Proctopexy combined with sigmoid resection by abdominal approach,l2procents
+C0192866,Sigmoid colectomy,l2procents
+C0400190,Rectosigmoidectomy and rectopexy,l2procents
+C0400112,Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope,l2procents
+C0400084,Hartmann operation,l2procents
+C0193082,Transsacral rectosigmoidectomy,l2procents
+C0341066,Partial excision of rectum and sigmoid colon for prolapse,l2procents
+C2584696,Laparoscopic fixation of prolapse of rectum with resection of sigmoid,l2procents
+C0585515,Sigmoid colectomy and ileostomy,l2procents
+C0400071,Sigmoid colectomy and anastomosis of colon to rectum,l2procents
+C0842176,Excision of entire colon and entire rectum,l2procents
+C0193078,Proctectomy by abdominoperineal resection with colostomy,l2procents
+C2733603,Excision of rectum with anastomosis of colon to anus and creation of colonic reservoir,l2procents
+C3164176,Excision of rectum by transanal approach,l2procents
+C0193058,Excision of benign tumor of rectum by transanal approach,l2procents
+C0585369,Excision of ileorectal fistula,l2procents
+C0400192,Anterior resection of rectum and anastomosis of colon to rectum using staples,l2procents
+C0193085,Posterior resection of rectum,l2procents
+C2732562,Excision of part of rectum by perineal approach,l2procents
+C0392844,Total abdominal colectomy with proctectomy and continent ileostomy,l2procents
+C0193076,Miles operation complete proctectomy,l2procents
+C1273428,Total mesorectal excision,l2procents
+C3472255,Subtotal excision of colon and rectum and creation of colonic pouch,l2procents
+C0193075,Rankin operation complete proctectomy,l2procents
+C0193095,Excision of lesion of perirectal tissue,l2procents
+C1282563,Anterior resection of rectum with anastomosis,l2procents
+C0400082,Total abdominal colectomy with proctectomy and ileostomy,l2procents
+C1533620,Anterior resection of rectal prolapse,l2procents
+C1293525,Excisional biopsy of lesion of rectum by transanal approach,l2procents
+C0193083,Anterior resection of rectum,l2procents
+C3164385,Sigmoidoscopic excision of mucosa of rectum,l2procents
+C1270802,Excision rectal mucosal prolapse,l2procents
+C1293526,Excisional biopsy of lesion of rectum fragmented by transanal approach,l2procents
+C3163771,Low anterior resection of rectum with colostomy,l2procents
+C0521262,Laparoscopic-assisted anterior resection of rectum,l2procents
+C1997889,Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus,l2procents
+C0192876,Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis,l2procents
+C1261121,Excision of anterior mucosal prolapse of rectum,l2procents
+C2584597,Stapled transanal resection of rectum,l2procents
+C0176848,Anterior resection of rectum with colostomy,l2procents
+C2004459,Abdominoperineal resection,l2procents
+C0400190,Rectosigmoidectomy and rectopexy,l2procents
+C1282272,Low anterior resection of rectum,l2procents
+C0193064,Excision of part of rectum,l2procents
+C1293527,Excisional biopsy of lesion of rectum intact by transanal approach,l2procents
+C3164215,Anterior resection of rectum and total excision of mesorectum,l2procents
+C0558333,Rectal polypectomy,l2procents
+C0193062,Resection of rectum,l2procents
+C3164911,Sigmoidoscopic excision of polyp of rectum,l2procents
+C0400177,Peranal excision of lesion of rectum,l2procents
+C3164389,Colonoscopic excision of mucosa of rectum,l2procents
+C0341065,Sphincter-saving proctectomy,l2procents
+C1282288,Transanal submucosal excision of rectal tumor,l2procents
+C0565292,Local excision of rectum,l2procents
+C0554052,Parks panproctocolectomy anastomosis of ileum to anus and creation of pouch,l2procents
+C0400185,Open excision of lesion of rectum,l2procents
+C4039928,Robot assisted laparoscopic anterior resection of rectum,l2procents
+C0578388,Snare resection of lesion of rectum,l2procents
+C0400103,Open operation on rectal polyp,l2procents
+C3163747,Excision of rectal stump,l2procents
+C0193063,Rectosigmoidectomy,l2procents
+C0193086,Von Kraske operation proctectomy,l2procents
+C0193052,Excision of lesion of rectum,l2procents
+C0579126,Proctoscopic excision of lesion of rectum,l2procents
+C0400076,Excision of colon and rectum,l2procents
+C0193100,Fistulectomy of rectum,l2procents
+C0400084,Hartmann operation rectal resection,l2procents
+C0341066,Partial excision of rectum and sigmoid colon for prolapse,l2procents
+C0521263,Laparoscopic-assisted anterior resection of rectum with colostomy,l2procents
+C0193172,Saucerization of rectum,l2procents
+C5192602,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,l2procents
+C3165024,Low anterior resection of rectum and total excision of mesorectum,l2procents
+C0554062,Peranal excision of rectal polyp,l2procents
+C0193088,Resection of rectum with pelvic exenteration,l2procents
+C1278681,Excision of perirectal tissue,l2procents
+C0729848,Salvage abdominoperineal resection of rectum,l2procents
+C0400195,Swenson procedure,l2procents
+C0193094,Excision of rectal procidentia with anastomosis by perineal approach,l2procents
+C2733546,Transanal disk excision of rectum,l2procents
+C3163704,Anterior resection of rectum and total mesorectal excision with colostomy,l2procents
+C5234875,Panproctocolectomy,l2procents
+C0193073,Lloyd-Davies operation abdominoperineal resection,l2procents
+C0193059,Excision of malignant tumor of rectum by transanal approach,l2procents
+C0400199,"Soave endorectal pull-through operation for Hirschsprungs disease",l2procents
+C1303030,High anterior resection of rectum,l2procents
+C4076546,Laparoscopic low anterior resection of rectum using robotic assistance,l2procents
+C0729753,Anterior resection of rectum with stapled anastomosis of sigmoid colon to anus with creation of J pouch,l2procents
+C3164866,Colonoscopic excision of polyp of rectum,l2procents
+C0585367,Excision jejunorectal fistula,l2procents
+C0193079,Proctectomy by abdominoperineal resection with colostomy two stages,l2procents
+C0193082,Transsacral rectosigmoidectomy,l2procents
+C0584879,Wedge resection of rectum,l2procents
+C4039732,Laparoscopic-assisted low anterior resection of rectum,l2procents
+C0400193,Proctectomy and anastomosis of colon to anus,l2procents
+C2315260,Transanal resection of rectum and anastomosis using staples,l2procents
+C0193074,Sauer-Bacon operation abdominoperineal resection,l2procents
+C0193070,Altemeier operation perineal rectal pull-through,l2procents
+C0400232,Transsphincteric excision of mucosa of rectum,l2procents
+C0193072,Total proctectomy,l2procents
+C0842176,Excision of entire colon and entire rectum,l2procents
+C0400041,Total abdominal colectomy with ileoproctostomy,l2procents
+C5234875,Panproctocolectomy,l2procents
+C5229251,Laparoscopic total colectomy and ileostomy,l2procents
+C0585536,Total colectomy ileostomy and closure of rectal stump,l2procents
+C0192876,Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis,l2procents
+C0585532,Total colectomy and ileostomy,l2procents
+C5229252,Laparoscopic total colectomy and loop ileostomy,l2procents
+C0392844,Total abdominal colectomy with proctectomy and continent ileostomy,l2procents
+C0192872,Total abdominal colectomy with ileostomy,l2procents
+C2111551,Laparoscopic total colectomy,l2procents
+C0192871,Total colectomy,l2procents
+C0585533,Total colectomy ileostomy and rectal mucous fistula,l2procents
+C0400082,Total abdominal colectomy with proctectomy and ileostomy,l2procents
+C4076374,Laparoscopic total colectomy with ileo-rectal anastomosis,l2procents
+C5192602,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,l2procents
+C5234875,Panproctocolectomy,l2procents
+C0842176,Excision of entire colon and entire rectum,l2procents
+C5192602,Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis,l2procents
+C4512619,Entire proximal portion of duodenal bulb,uppergients
+C0227214,Circular layer of gastric muscularis,uppergients
+C0227218,Interstitial tissue of stomach,uppergients
+C5397448,Structure of blood vessel within duodenum,uppergients
+C1446343,Anterior wall of pre-pylorus,uppergients
+C4511679,Entire gastric serosa,uppergients
+C1321507,Entire anterior wall of stomach,uppergients
+C1284418,Entire pylorus,uppergients
+C1284411,Entire greater curvature of stomach,uppergients
+C1282662,Entire esophageal lumen,uppergients
+C0227206,Entire gastric pyloric gland,uppergients
+C0227215,Oblique fibers of gastric muscularis,uppergients
+C1298208,Anterior middle third of esophagus,uppergients
+C0227178,Structure of esophageal gland,uppergients
+C0227304,Structure of periduodenal tissue,uppergients
+C1284406,Entire esophageal submucosa,uppergients
+C5437858,Entire middle thoracic esophagus,uppergients
+C1446341,Greater curvature of fundus of stomach,uppergients
+C1305187,Entire pyloric ostium of stomach,uppergients
+C4511246,Entire gastric mucous gland,uppergients
+C4512692,Entire anterior wall of fundus of stomach,uppergients
+C0475840,Esophageal segment,uppergients
+C0227183,Structure of bronchoesophageal muscle,uppergients
+C4517105,Entire anterior upper third of esophagus,uppergients
+C0475375,Lower esophageal segment,uppergients
+C0939949,Greater curvature of antrum of stomach,uppergients
+C1283687,Incisure of stomach,uppergients
+C4512480,Entire duodenal subserosa,uppergients
+C4514734,Entire duodenojejunal junction,uppergients
+C1282665,Entire periesophageal tissue,uppergients
+C1280780,Entire gastric foveola,uppergients
+C4075428,Structure of duodenal gland,uppergients
+C1267612,Junction of duodenal mucosa and mucosa of ampulla of Vater,uppergients
+C1280774,Entire pyloric gland,uppergients
+C0475376,Upper esophageal segment,uppergients
+C1280775,Entire pyloric sphincter,uppergients
+C0227219,Lymphoid follicle of stomach,uppergients
+C0450201,Gastrojejunal junction,uppergients
+C1280783,Entire cardiac ostium of stomach,uppergients
+C0227285,Lamina muscularis of duodenal mucous membrane,uppergients
+C4518044,Entire left lateral portion of lower third of esophagus,uppergients
+C0227305,Structure of duodenal lumen,uppergients
+C1284417,Entire pyloric antrum,uppergients
+C3714551,Stomach structure,uppergients
+C0224216,Structure of cricopharyngeal part of inferior constrictor pharyngeus muscle,uppergients
+C0227203,Structure of gastric foveola,uppergients
+C0227302,Structure of inferior portion of duodenum,uppergients
+C5229821,Structure of vasculature within stomach,uppergients
+C1284408,Entire gastric mucous membrane,uppergients
+C0736139,Posterior wall of body of stomach,uppergients
+C5438520,Entire artery within stomach,uppergients
+C0013294,Lesser duodenal papilla structure,uppergients
+C1279462,Entire pleuroesophageal muscle,uppergients
+C4517104,Entire aortic narrowing of esophagus,uppergients
+C0229924,Structure of lymphatic vessel of stomach,uppergients
+C1269002,Entire greater duodenal papilla,uppergients
+C1284409,Entire gastric muscularis,uppergients
+C4512165,Entire interstitial tissue of stomach,uppergients
+C5229822,Structure of vein within stomach,uppergients
+C1298211,Structure of right lateral portion of middle third of esophagus,uppergients
+C5437857,Entire upper thoracic esophagus,uppergients
+C0447511,Part of pyloric region,uppergients
+C1280779,Entire gastric fundal gland,uppergients
+C0475425,Entire thoracic esophagus,uppergients
+C1298214,Posterior lower third of esophagus,uppergients
+C0227226,Structure of posterior wall of stomach,uppergients
+C0227217,Gastric serosa,uppergients
+C4517101,Entire anterior middle third of esophagus,uppergients
+C1279437,Entire bronchoesophageal muscle,uppergients
+C5191226,Structure of lumen of thoracic esophagus,uppergients
+C0227231,Structure of canal of stomach,uppergients
+C4511678,Entire duodenal serosa,uppergients
+C1282663,Entire esophageal gland,uppergients
+C0475429,Pharyngo-esophageal narrowing of esophagus,uppergients
+C5438519,Entire artery within duodenum,uppergients
+C0227233,Structure of pyloric canal,uppergients
+C4515226,Entire duodenal flexure,uppergients
+C0227205,Structure of gastric fundal gland,uppergients
+C0227190,Abdominal esophagus structure,uppergients
+C0227222,Structure of angular incisure of stomach,uppergients
+C5229469,Entire lumen of pylorus of stomach,uppergients
+C0227202,Structure of villous fold of stomach,uppergients
+C4517224,Entire stomach and duodenum,uppergients
+C4511636,Entire circular layer of duodenal muscularis propria,uppergients
+C0227570,Sphincter choledochus structure,uppergients
+C0227299,Structure of superior portion of duodenum,uppergients
+C1280784,Entire caudal one third of stomach,uppergients
+C1267582,Proximal stomach structure,uppergients
+C4515804,Entire biliary-pancreatic junction,uppergients
+C1284410,Entire lesser curvature of stomach,uppergients
+C0042425,Structure of ampulla of Vater,uppergients
+C0735811,Structure of mucous membrane of gastric corpus,uppergients
+C1280773,Entire lymphatic vessel of stomach,uppergients
+C1280778,Entire cardiac incisure of stomach,uppergients
+C1298207,Circumferential portion of middle third of esophagus,uppergients
+C4512243,Entire lamina muscularis of duodenal mucous membrane,uppergients
+C4512620,Entire distal portion of duodenal bulb,uppergients
+C1284421,Entire duodenal mucous membrane,uppergients
+C4516405,Entire third and fourth parts of the duodenum,uppergients
+C0227182,Structure of cricesophageal tendon,uppergients
+C4518026,Entire esophageal adventitia,uppergients
+C1280756,Entire superior flexure of duodenum,uppergients
+C1280329,Entire ascending portion of duodenum,uppergients
+C1305186,Entire posterior wall of stomach,uppergients
+C1298202,Circumferential portion of upper third of esophagus,uppergients
+C4512694,Entire anterior wall of body of stomach,uppergients
+C4518023,Entire circumferential portion of middle third of esophagus,uppergients
+C1284407,Entire lower third of esophagus,uppergients
+C0227189,Structure of middle third of esophagus,uppergients
+C4511682,Entire circular layer of gastric muscularis,uppergients
+C4514398,Entire curve of stomach,uppergients
+C1267585,Anterior wall of antrum of stomach,uppergients
+C4512401,Entire lamina muscularis of gastric mucosa,uppergients
+C4518060,Entire third of esophagus,uppergients
+C0227282,Structure of duodenojejunal flexure,uppergients
+C4518035,Entire esophageal sphincter,uppergients
+C0227208,Gastric epithelium,uppergients
+C4518058,Entire posterior upper third of esophagus,uppergients
+C1284063,Upper body of stomach,uppergients
+C0227284,Duodenal mucous membrane structure,uppergients
+C0475423,Region of esophagus,uppergients
+C4512702,Entire junction of duodenal mucosa and mucosa of ampulla of Vater,uppergients
+C0227294,Entire suspensory muscle of duodenum,uppergients
+C4518064,Entire pharyngoesophageal narrowing of esophagus,uppergients
+C0227194,Structure of esophageal lumen,uppergients
+C4512699,Entire posterior wall of antrum of stomach,uppergients
+C0227289,Duodenal muscularis propria structure,uppergients
+C1278919,Entire esophagus,uppergients
+C5190652,Entire mucous membrane of gastric corpus,uppergients
+C1267613,Peri-ampullary tissue of hepatopancreatic ampulla,uppergients
+C0545819,Structure of cardiac gland of esophagus,uppergients
+C4512413,Entire duodenal epithelium,uppergients
+C1280785,Entire canal of stomach,uppergients
+C5229282,Structure of lumen of upper gastrointestinal tract,uppergients
+C4749984,Entire mucous membrane of upper gastrointestinal tract,uppergients
+C4511638,Entire lymphoid follicle of stomach,uppergients
+C5438517,Structure of artery within duodenum,uppergients
+C5397449,Entire blood vessel within duodenum,uppergients
+C1281187,Entire wall of stomach,uppergients
+C1298206,Structure of right lateral portion of upper third of esophagus,uppergients
+C5190650,Entire mucous membrane of gastric cardia,uppergients
+C1305679,Entire abdominal esophagus,uppergients
+C4513848,Entire gastroduodenal junction,uppergients
+C1446345,Lesser curvature of pre-pylorus,uppergients
+C0227192,Inferior esophageal sphincter structure,uppergients
+C1280760,Entire duodenal lumen,uppergients
+C0227211,Gastric submucosa,uppergients
+C0227186,Cervical esophagus structure,uppergients
+C0227187,Structure of upper third of esophagus,uppergients
+C4512701,Entire greater curvature of antrum of stomach,uppergients
+C1267591,Proximal portion of duodenal bulb,uppergients
+C0227295,Structure of plica longitudinalis of duodenum,uppergients
+C0447514,Part of duodenum,uppergients
+C0506546,Esophageal wall structure,uppergients
+C4075478,Entire duodenal gland,uppergients
+C0017136,Gastric mucous membrane structure,uppergients
+C5229424,Structure of pyloric lumen,uppergients
+C0227188,Thoracic esophagus structure,uppergients
+C4512693,Entire posterior wall of fundus of stomach,uppergients
+C0227176,Esophageal mucous membrane structure,uppergients
+C0447509,Region of stomach,uppergients
+C0227191,Structure of lower third of esophagus,uppergients
+C0227185,Esophageal adventitia,uppergients
+C0014876,Esophageal structure,uppergients
+C5437855,Structure of middle thoracic esophagus,uppergients
+C0227238,Pyloric sphincter structure,uppergients
+C1298212,Circumferential portion of lower third of esophagus,uppergients
+C0227216,Gastric subserosa,uppergients
+C1284065,Lower body of stomach,uppergients
+C1278920,Entire stomach,uppergients
+C0227237,Structure of pyloric ostium of stomach,uppergients
+C4515659,Entire mid body of stomach,uppergients
+C4518061,Entire upper esophageal segment,uppergients
+C1280328,Entire inferior portion of duodenum,uppergients
+C0227223,Structure of greater curvature of stomach,uppergients
+C4517100,Entire anterior lower third of esophagus,uppergients
+C1278921,Entire duodenum,uppergients
+C1280759,Entire periduodenal tissue,uppergients
+C5191227,Entire lumen of thoracic esophagus,uppergients
+C4518057,Entire posterior middle third of esophagus,uppergients
+C0229921,Structure of lymphatic vessel of esophagus,uppergients
+C4515811,Entire greater curvature of pre-pylorus,uppergients
+C4518046,Entire left lateral portion of upper third of esophagus,uppergients
+C0227287,Duodenal lamina propria,uppergients
+C0578989,Esophageal and/or gastric structures,uppergients
+C1446344,Greater curvature of pre-pylorus,uppergients
+C0227199,Structure of gastric rugae,uppergients
+C4512617,Entire anterior wall of duodenal bulb,uppergients
+C1267592,Distal portion of duodenal bulb,uppergients
+C1284422,Entire duodenal muscularis propria,uppergients
+C1282664,Cricoesophageal tendon,uppergients
+C1280776,Entire angular incisure of stomach,uppergients
+C4518032,Entire esophageal muscularis propria,uppergients
+C4518045,Entire left lateral portion of middle third of esophagus,uppergients
+C4512083,Entire pharyngoesophageal junction,uppergients
+C4518056,Entire posterior lower third of esophagus,uppergients
+C1284423,Entire superior portion of duodenum,uppergients
+C1298213,Anterior lower third of esophagus,uppergients
+C1284412,Entire proximal stomach,uppergients
+C4515808,Entire greater curvature of fundus of stomach,uppergients
+C0227213,Longitudinal layer of gastric muscularis,uppergients
+C4515812,Entire lesser curvature of pre-pylorus,uppergients
+C4511634,Entire longitudinal layer of duodenal muscularis propria,uppergients
+C0227229,Structure of cardiac incisure of stomach,uppergients
+C0578988,Stomach and/or duodenal structures,uppergients
+C4512468,Entire duodenal lamina propria,uppergients
+C1298204,Posterior upper third of esophagus,uppergients
+C1284414,Entire gastric fundus,uppergients
+C1299149,Gastric fundus part,uppergients
+C1298210,Structure of left lateral portion of middle third of esophagus,uppergients
+C1280677,Entire duodenojejunal flexure,uppergients
+C0014865,Esophageal sphincter,uppergients
+C0227201,Structure of area gastrica,uppergients
+C5437856,Structure of lower thoracic esophagus,uppergients
+C0736134,Anterior wall of fundus of stomach,uppergients
+C1284424,Entire duodenal ampulla,uppergients
+C5229820,Entire vasculature within stomach,uppergients
+C0034193,Pyloric antrum structure,uppergients
+C0227224,Stomach wall structure,uppergients
+C1267584,Greater curvature of body of stomach,uppergients
+C4512618,Entire posterior wall of duodenal bulb,uppergients
+C1280781,Entire gastric rugae,uppergients
+C0475431,Bronchial narrowing of esophagus,uppergients
+C1284425,Entire descending portion of duodenum,uppergients
+C1284415,Entire gastric corpus,uppergients
+C4518033,Entire esophageal segment,uppergients
+C4512467,Entire duodenal submucosa,uppergients
+C0013293,Greater duodenal papilla structure,uppergients
+C0227286,Duodenal epithelium,uppergients
+C0017129,Gastric fundus structure,uppergients
+C0227220,Structure of curvature of stomach,uppergients
+C4517107,Entire circumferential portion of lower third of esophagus,uppergients
+C0475424,Entire cervical esophagus,uppergients
+C0447513,Gastroduodenal junction,uppergients
+C1298205,Structure of left lateral portion of upper third of esophagus,uppergients
+C0226700,Esophageal venous plexus,uppergients
+C4517268,Entire esophago-gastric mucosal junction,uppergients
+C4512697,Entire greater curvature of body of stomach,uppergients
+C4515813,Entire posterior wall of pre-pylorus,uppergients
+C5231085,Entire wall of esophagus,uppergients
+C4518024,Entire circumferential portion of upper third of esophagus,uppergients
+C1282046,Duodenal flexure,uppergients
+C1280786,Entire gastric lumen,uppergients
+C0227283,Structure of inferior flexure of duodenum,uppergients
+C0028872,Sphincter of Oddi structure,uppergients
+C5437859,Entire lower thoracic esophagus,uppergients
+C0227296,Duodenal papilla structure,uppergients
+C1268997,Entire upper gastrointestinal tract,uppergients
+C1280432,Entire sphincter choledochus,uppergients
+C4512336,Entire gastric subserosa,uppergients
+C1288347,Entire cardiac gland of esophagus,uppergients
+C0007144,Cardia structure,uppergients
+C0227300,Duodenal ampulla structure,uppergients
+C0475432,Diaphragmatic narrowing of esophagus,uppergients
+C0227177,Lamina muscularis of esophageal mucous membrane,uppergients
+C4512703,Entire peri-ampullary tissue of hepatopancreatic ampulla,uppergients
+C0736188,Structure of mucous membrane of gastric cardia,uppergients
+C1280772,Entire inferior esophageal sphincter,uppergients
+C1720217,Structure of third and fourth parts of the duodenum,uppergients
+C4515810,Entire anterior wall of pre-pylorus,uppergients
+C1298215,Structure of left lateral portion of lower third of esophagus,uppergients
+C4514732,Entire junction of stomach,uppergients
+C1280327,Entire pyloric canal,uppergients
+C0947629,Lesser curvature of antrum of stomach,uppergients
+C4517099,Entire anatomical narrowing of esophagus,uppergients
+C1268119,Stomach part,uppergients
+C4518027,Entire esophageal and gastric structures,uppergients
+C0227291,Circular layer of duodenal muscularis propria,uppergients
+C1267589,Anterior wall of duodenal bulb,uppergients
+C0475427,Pharyngo-esophageal junction,uppergients
+C4512332,Entire longitudinal layer of gastric muscularis,uppergients
+C0227200,Lamina muscularis of gastric mucosa,uppergients
+C0227293,Duodenal subserosa,uppergients
+C1446342,Lesser curvature of fundus of stomach,uppergients
+C1276396,Entire cardioesophageal junction,uppergients
+C0227225,Structure of anterior wall of stomach,uppergients
+C0227193,Structure of periesophageal tissue,uppergients
+C4512328,Entire gastric submucosa,uppergients
+C4512700,Entire lesser curvature of antrum of stomach,uppergients
+C1261087,Structure of suspensory muscle of duodenum,uppergients
+C1284471,Entire ampulla of Vater,uppergients
+C4512405,Entire gastric epithelium,uppergients
+C5397451,Entire blood vessel within esophagus,uppergients
+C1280758,Entire plica longitudinalis of duodenum,uppergients
+C1446346,Posterior wall of pre-pylorus,uppergients
+C0227288,Duodenal submucosa,uppergients
+C0939967,Biliary-pancreatic junction,uppergients
+C1283686,Esophageal muscle,uppergients
+C0227181,Esophageal muscularis propria,uppergients
+C4515658,Entire upper body of stomach,uppergients
+C0736138,Posterior wall of fundus of stomach,uppergients
+C5190649,Structure of mucous membrane of pylorus of stomach,uppergients
+C0034196,Pyloric structure of stomach,uppergients
+C5438518,Structure of artery within stomach,uppergients
+C4512698,Entire anterior wall of antrum of stomach,uppergients
+C1298216,Structure of right lateral portion of lower third of esophagus,uppergients
+C1284413,Entire cardia,uppergients
+C1267590,Posterior wall of duodenal bulb,uppergients
+C4749983,Structure of mucous membrane of upper gastrointestinal tract,uppergients
+C1298209,Posterior middle third of esophagus,uppergients
+C0227212,Gastric muscularis structure,uppergients
+C0014871,Cardioesophageal junction structure,uppergients
+C1288326,Structure of caudal one third of stomach,uppergients
+C4512695,Entire posterior wall of body of stomach,uppergients
+C0475430,Aortic narrowing of esophagus,uppergients
+C0227235,Structure of gastric lumen,uppergients
+C1269531,Entire lesser duodenal papilla,uppergients
+C5190651,Entire mucous membrane of pylorus of stomach,uppergients
+C1280912,Entire upper third of esophagus,uppergients
+C4518036,Entire esophageal venous plexus,uppergients
+C1305779,Entire duodenal papilla,uppergients
+C4515660,Entire lower body of stomach,uppergients
+C5437854,Structure of upper thoracic esophagus,uppergients
+C4512696,Entire lesser curvature of body of stomach,uppergients
+C0227301,Structure of descending portion of duodenum,uppergients
+C4517106,Entire bronchial narrowing of esophagus,uppergients
+C5397450,Structure of blood vessel within esophagus,uppergients
+C0448320,Entire cricopharyngeal part of inferior constrictor pharyngeus muscle,uppergients
+C0227221,Structure of lesser curvature of stomach,uppergients
+C0227290,Longitudinal layer of duodenal muscularis propria,uppergients
+C4518048,Entire lower esophageal segment,uppergients
+C1280757,Entire inferior flexure of duodenum,uppergients
+C4515496,Entire incisure of stomach,uppergients
+C1267583,Lesser curvature of body of stomach,uppergients
+C4517921,Entire oblique fibers of gastric muscularis,uppergients
+C0227303,Structure of ascending portion of duodenum,uppergients
+C1268118,Esophageal part,uppergients
+C4518043,Entire lamina muscularis of esophageal mucous membrane,uppergients
+C1282744,Entire lymphatic vessel of esophagus,uppergients
+C0013303,Duodenal structure,uppergients
+C4281596,Entire gastric cardiac gland,uppergients
+C1284405,Entire esophageal mucous membrane,uppergients
+C1280913,Entire middle third of esophagus,uppergients
+C4518042,Entire junction of esophagus,uppergients
+C1278930,Entire sphincter of Oddi,uppergients
+C4518031,Entire esophageal muscle,uppergients
+C0475428,Anatomical narrowing of esophagus,uppergients
+C0227184,Structure of pleuroesophageal muscle,uppergients
+C4515809,Entire lesser curvature of fundus of stomach,uppergients
+C1267586,Posterior wall of antrum of stomach,uppergients
+C1298203,Anterior upper third of esophagus,uppergients
+C3203348,Upper gastrointestinal tract structure,uppergients
+C0475426,Junction of esophagus,uppergients
+C1280787,Entire area gastrica,uppergients
+C1284416,Entire pyloric portion of stomach,uppergients
+C0459870,Junction of stomach,uppergients
+C0227281,Structure of superior flexure of duodenum,uppergients
+C1280782,Entire villous fold of stomach,uppergients
+C0447510,Structure of pyloric portion of stomach,uppergients
+C0475839,Third of esophagus,uppergients
+C0227292,Duodenal serosa,uppergients
+C0227180,Esophageal submucosa structure,uppergients
+C0227228,Structure of cardiac ostium of stomach,uppergients
+C1267580,Esophago-gastric mucosal junction,uppergients
+C1284064,Mid body of stomach,uppergients
+C0736135,Anterior wall of body of stomach,uppergients
+C5229976,Entire vein within stomach,uppergients
+C0227230,Gastric corpus structure,uppergients
+C4518025,Entire diaphragmatic narrowing of esophagus,uppergients
+C0227207,Gastric mucous gland,uppergients
+C5229468,Entire lumen of upper gastrointestinal tract,uppergients
+C4512355,Entire jejunal epithelium,uppergients
+C0022378,Jejunal structure,uppergients
+C1280676,Entire anti-mesenteric border of jejunum,uppergients
+C1283688,Border of jejunum,uppergients
+C0227310,Jejunal lamina propria,uppergients
+C0227312,Structure of jejunal lumen,uppergients
+C0227308,Jejunal mucous membrane structure,uppergients
+C4515497,Entire border of jejunum,uppergients
+C4515806,Entire efferent loop of jejunum,uppergients
+C1446329,Jejunal crest,uppergients
+C4514734,Entire duodenojejunal junction,uppergients
+C4512434,Entire jejunal submucosa,uppergients
+C1280677,Entire duodenojejunal flexure,uppergients
+C1446327,Afferent loop of jejunum,uppergients
+C4512117,Entire jejunal lamina propria,uppergients
+C0227315,Structure of anti-mesenteric border of jejunum,uppergients
+C1446328,Efferent loop of jejunum,uppergients
+C4515807,Entire jejunal crest,uppergients
+C1284426,Entire jejunal mucous membrane,uppergients
+C0450201,Gastrojejunal junction,uppergients
+C0227311,Jejunal submucosa,uppergients
+C1278922,Entire jejunum,uppergients
+C4515805,Entire afferent loop of jejunum,uppergients
+C0227282,Structure of duodenojejunal flexure,uppergients
+C1280679,Entire jejunal lumen,uppergients
+C0227314,Structure of mesenteric border of jejunum,uppergients
+C0227309,Jejunal epithelium,uppergients
+C1299156,Jejunal part,uppergients
+C1280671,Entire mesenteric border of jejunum,uppergients
+C0577996,Partial jejunectomy,l4procents
+C0399933,Total jejunectomy and anastomosis of duodenum to ileum,l4procents
+C0399930,Partial jejunectomy and anastomosis of duodenum to colon,l4procents
+C0399934,Total jejunectomy and anastomosis of stomach to ileum,l4procents
+C0399928,Excision of lesion of jejunum,l4procents
+C0577995,Total jejunectomy,l4procents
+C0192632,Jejunectomy,l4procents
+C0399931,Partial jejunectomy and anastomosis of jejunum to ileum,l4procents
+C0192633,Excision of redundant mucosa from jejunostomy,l4procents
+C0585366,Excision jejunocolic fistula,l4procents
+C0585367,Excision jejunorectal fistula,l4procents
+C0399932,Total jejunectomy and anastomosis of duodenum to colon,l4procents
